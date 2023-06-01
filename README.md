@@ -115,6 +115,10 @@ Skywater PDK: Skywater Process Design Kit (PDK) is an open-source process design
 
 These are just some of the commands and tools that are commonly used in the OpenLane flow and open-source EDA on a Linux system. OpenLane itself integrates these tools and commands to provide an automated and efficient RTL-to-GDSII design implementation flow.
 
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/71eb0b77-b61c-402b-851b-c346dc2fa719)
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/c1c72190-d50b-4ea4-a134-6eeca5731831)
+
+
 Chip floor planning considerations :
 
 utilisation factor:
@@ -194,11 +198,34 @@ In summary, decoupling capacitors play a vital role in the physical design of el
 
 Power planning:
 
+Power planning is a crucial aspect of physical design in integrated circuit (IC) manufacturing. It involves strategically distributing power and ground networks to ensure efficient power delivery and minimize voltage drop. Power planning aims to maintain voltage stability, reduce power supply noise, and prevent signal integrity issues. By carefully designing power grids, including power distribution networks (PDNs) and decoupling capacitors, power planning optimizes power distribution and minimizes electromigration effects, thereby improving overall circuit performance, reliability, and power efficiency. Effective power planning plays a vital role in achieving high-performance and low-power IC designs.
+
 ![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/6704fb03-f46b-48eb-8222-a0de4b2e8ff9)
 
 ![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/45906872-0b8e-45d2-9a2d-3d4645c21b75)
 
 ![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/5be8722d-fcb6-4caf-82cb-05548293b957)
+
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/08f1cafa-ae33-4c22-94ef-7713fa07adff)
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/6cc808ba-a80c-4a2b-86ae-6185ede8ab51)
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/db9d981f-486f-4bd1-b63c-fa06f00a0984)
+
+Pin placement:
+
+Pin placement in physical design refers to the strategic arrangement of input/output pins on an integrated circuit or a printed circuit board (PCB). It involves determining the optimal locations for pins to ensure efficient signal routing, minimal interference, and ease of manufacturing and testing. Pin placement is critical as it impacts the overall performance and functionality of the design. Careful consideration is given to factors such as signal integrity, power distribution, thermal management, and compatibility with packaging and connector standards. A well-planned pin placement enhances the reliability, manufacturability, and usability of the electronic system.
+
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/945cacf0-a4b8-4abe-a5d3-956eec821a6f)
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/0dfb46d4-ef89-4170-8126-7a799a82db65)
+
+Logical cell placement Blockage:
+
+Logical cell placement blockage refers to the situation in physical design where the arrangement of logic cells in an integrated circuit layout becomes hindered or restricted. It occurs when certain design constraints or rules prevent the optimal placement of cells, leading to suboptimal performance or increased area usage. Blockages may arise due to factors such as conflicting signal requirements, placement restrictions imposed by standard cell libraries, or physical design rules. Resolving these blockages often involves iteratively adjusting cell positions or modifying the floorplan to achieve better routing, timing, and overall design quality.
+
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/6e5c89b8-b68d-41fe-9477-184a714950e5)
+
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/b061f251-f7d9-4e20-aafb-c1d8983a4f04)
+![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/31ee5326-8edc-4fa0-ade2-393a61c9bf2e)
+
 
 
 
