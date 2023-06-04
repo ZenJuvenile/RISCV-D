@@ -1,11 +1,13 @@
 # RISCV-D
 <p align="center">
 Welcome to the RISC-V Architecture-Based GitHub repository, a comprehensive collection of resources and tools dedicated to the open-source RISC-V instruction set architecture (ISA). This repository serves as a hub for developers, researchers, and enthusiasts interested in exploring, implementing, and contributing to the RISC-V ecosystem.
+</p>
 
+<p align="center">
 
    ![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/3c3fa02d-f04c-4a00-bf5f-6fa48d8692af)
-   
-</p>
+  </p> 
+
 
 Basic terminologies to know about Asic chip:
 
