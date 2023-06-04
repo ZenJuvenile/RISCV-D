@@ -3,6 +3,10 @@ Welcome to the RISC-V Architecture-Based GitHub repository, a comprehensive coll
 
 
    ![image](https://github.com/ZenJuvenile/RISCV-D/assets/92900305/3c3fa02d-f04c-4a00-bf5f-6fa48d8692af)
+   
+   <div dir="rtl">
+    text...
+</div>
 
 Basic terminologies to know about Asic chip:
 
